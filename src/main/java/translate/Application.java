@@ -18,6 +18,7 @@ public class Application {
 			text += args[i] + " ";
 		}
 		System.out.println(translate("en-ru", text));
+		
 	}
 
 	private static String translate(String lang, String input) throws IOException {
