@@ -7,7 +7,7 @@ import java.io.InputStream;
 import java.net.URL;
 import java.net.URLEncoder;
 import java.io.PrintWriter;
-import java.util.Scanner;
+import java.util.Scanner; 
 import java.io.InputStreamReader;
 
 public class Application { 
